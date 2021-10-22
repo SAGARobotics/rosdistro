@@ -1,0 +1,27 @@
+%YAML 1.1
+# ROS distribution file
+# see REP 143: http://ros.org/reps/rep-0143.html
+---
+release_platforms:
+  ubuntu:
+    - bionic
+repositories:
+  examples:
+    release:
+      packages:
+        - hello_ros
+      tags:
+        release: release/melodic/{package}/{version}
+      url: https://github.com/SAGARobotics/examples-release.git
+      version: 0.0.0
+    source:
+      test_commits: true
+      test_pull_requests: true
+      type: git
+      url: https://github.com/SAGARobotics/examples.git
+      version: master
+    status: maintained
+tags:
+  - sagarobotics
+type: distribution
+version: 2
