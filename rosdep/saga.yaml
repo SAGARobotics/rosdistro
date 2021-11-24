@@ -4,3 +4,6 @@ hello_ros:
 goodbye_ros:
   ubuntu:
     bionic: [ros-melodic-goodbye-te-ros]
+rosmath:
+  ubuntu:
+    bionic: [ros-melodic-rosmath]
