@@ -7,3 +7,6 @@ goodbye_ros:
 hello_ros:
   ubuntu:
     bionic: [ros-melodic-hello-ros]
+thorvald:
+  ubuntu:
+    bionic: [ros-melodic-thorvald]
