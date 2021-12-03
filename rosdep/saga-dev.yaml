@@ -10,3 +10,6 @@ hello_ros:
 thorvald:
   ubuntu:
     bionic: [ros-melodic-thorvald]
+thorvald_2dnav:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-2dnav]
