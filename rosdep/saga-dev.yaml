@@ -37,3 +37,6 @@ thorvald_example_robots:
 thorvald_msgs:
   ubuntu:
     bionic: [ros-melodic-thorvald-msgs]
+thorvald_gui:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-gui]
