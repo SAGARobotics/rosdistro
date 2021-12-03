@@ -46,3 +46,6 @@ thorvald_simulator:
 thorvald_twist_mux:
   ubuntu:
     bionic: [ros-melodic-thorvald-twist-mux]
+thorvald_teleop:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-teleop]
