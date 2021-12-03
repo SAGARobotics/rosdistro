@@ -40,3 +40,6 @@ thorvald_msgs:
 thorvald_gui:
   ubuntu:
     bionic: [ros-melodic-thorvald-gui]
+thorvald_simulator:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-simulator]
