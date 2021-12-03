@@ -34,3 +34,6 @@ thorvald_gazebo_plugins:
 thorvald_example_robots:
   ubuntu:
     bionic: [ros-melodic-thorvald-example-robots]
+thorvald_msgs:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-msgs]
