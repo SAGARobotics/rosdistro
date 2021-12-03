@@ -19,3 +19,6 @@ thorvald_bringup:
 thorvald_base:
   ubuntu:
     bionic: [ros-melodic-thorvald-base]
+thorvald_can_devices:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-can-devices]
