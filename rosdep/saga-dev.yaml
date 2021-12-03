@@ -22,3 +22,6 @@ thorvald_base:
 thorvald_can_devices:
   ubuntu:
     bionic: [ros-melodic-thorvald-can-devices]
+thorvald_description:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-description]
