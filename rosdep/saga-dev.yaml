@@ -43,3 +43,6 @@ thorvald_gui:
 thorvald_simulator:
   ubuntu:
     bionic: [ros-melodic-thorvald-simulator]
+thorvald_twist_mux:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-twist-mux]
