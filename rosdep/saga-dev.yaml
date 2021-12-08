@@ -64,3 +64,6 @@ topological_rviz_tools:
 bayesian_topological_localisation:
   ubuntu:
     bionic: [ros-melodic-bayesian-topological-localisation]
+polytunnel_navigation_actions:
+  ubuntu:
+    bionic: [ros-melodic-polytunnel-navigation-actions]
