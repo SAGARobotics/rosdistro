@@ -58,3 +58,6 @@ topological_navigation_msgs:
 topological_utils:
   ubuntu:
     bionic: [ros-melodic-topological-utils]
+topological_rviz_tools:
+  ubuntu:
+    bionic: [ros-melodic-topological-rviz-tools]
