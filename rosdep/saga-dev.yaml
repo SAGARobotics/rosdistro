@@ -49,3 +49,6 @@ thorvald_twist_mux:
 thorvald_teleop:
   ubuntu:
     bionic: [ros-melodic-thorvald-teleop]
+topological_navigation:
+  ubuntu:
+    bionic: [ros-melodic-topological-navigation]
