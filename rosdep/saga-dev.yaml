@@ -67,3 +67,6 @@ bayesian_topological_localisation:
 polytunnel_navigation_actions:
   ubuntu:
     bionic: [ros-melodic-polytunnel-navigation-actions]
+sentor:
+  ubuntu:
+    bionic: [ros-melodic-sentor]
