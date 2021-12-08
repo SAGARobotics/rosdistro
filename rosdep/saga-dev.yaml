@@ -52,3 +52,6 @@ thorvald_teleop:
 topological_navigation:
   ubuntu:
     bionic: [ros-melodic-topological-navigation]
+topological_navigation_msgs:
+  ubuntu:
+    bionic: [ros-melodic-topological-navigation-msgs]
