@@ -61,3 +61,6 @@ topological_utils:
 topological_rviz_tools:
   ubuntu:
     bionic: [ros-melodic-topological-rviz-tools]
+bayesian_topological_localisation:
+  ubuntu:
+    bionic: [ros-melodic-bayesian-topological-localisation]
