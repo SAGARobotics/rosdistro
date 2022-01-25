@@ -70,3 +70,6 @@ polytunnel_navigation_actions:
 sentor:
   ubuntu:
     bionic: [ros-melodic-sentor]
+mongodb_storage_handler:
+  ubuntu:
+    bionic: [ros-melodic-mongodb-storage-handler]
