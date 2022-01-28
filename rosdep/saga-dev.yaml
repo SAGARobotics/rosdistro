@@ -73,3 +73,6 @@ sentor:
 mongodb_storage_handler:
   ubuntu:
     bionic: [ros-melodic-mongodb-storage-handler]
+mel_amcl:
+  ubuntu:
+    bionic: [ros-melodic-mel-amcl]
