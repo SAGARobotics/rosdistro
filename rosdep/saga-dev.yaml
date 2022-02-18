@@ -76,3 +76,6 @@ mongodb_storage_handler:
 mel_amcl:
   ubuntu:
     bionic: [ros-melodic-mel-amcl]
+thorvald_imu:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-imu]
