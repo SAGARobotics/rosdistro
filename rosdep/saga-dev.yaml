@@ -43,3 +43,6 @@ thorvald_extras:
 thorvald_msgs:
   ubuntu:
     bionic: [ros-melodic-thorvald-msgs]
+thorvald_imu:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-imu]
