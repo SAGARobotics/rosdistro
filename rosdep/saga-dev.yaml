@@ -61,3 +61,6 @@ sentor:
 topological_navigation_msgs:
   ubuntu:
     bionic: [ros-melodic-topological-navigation-msgs]
+topological_rviz_tools:
+  ubuntu:
+    bionic: [ros-melodic-topological-rviz-tools]
