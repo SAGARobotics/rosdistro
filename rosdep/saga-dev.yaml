@@ -28,3 +28,6 @@ thorvald_can_devices:
 thorvald_description:
   ubuntu:
     bionic: [ros-melodic-thorvald-description]
+thorvald_example_robots:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-example-robots]
