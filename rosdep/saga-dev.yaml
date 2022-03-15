@@ -46,3 +46,6 @@ thorvald_msgs:
 thorvald_imu:
   ubuntu:
     bionic: [ros-melodic-thorvald-imu]
+thorvald_simulator:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-simulator]
