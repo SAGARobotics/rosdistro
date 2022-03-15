@@ -73,3 +73,6 @@ topological_utils:
 topological_navigation:
   ubuntu:
     bionic: [ros-melodic-topological-navigation]
+polytunnel_navigation_actions:
+  ubuntu:
+    bionic: [ros-melodic-polytunnel-navigation-actions]
