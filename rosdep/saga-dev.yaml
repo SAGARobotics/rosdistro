@@ -58,3 +58,6 @@ thorvald_twist_mux:
 sentor:
   ubuntu:
     bionic: [ros-melodic-sentor]
+topological_navigation_msgs:
+  ubuntu:
+    bionic: [ros-melodic-topological-navigation-msgs]
