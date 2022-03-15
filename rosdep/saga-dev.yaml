@@ -10,3 +10,6 @@ hello_ros:
 mongodb_storage_handler:
   ubuntu:
     bionic: [ros-melodic-mongodb-storage-handler]
+thorvald:
+  ubuntu:
+    bionic: [ros-melodic-thorvald]
