@@ -70,3 +70,6 @@ bayesian_topological_localisation:
 topological_utils:
   ubuntu:
     bionic: [ros-melodic-topological-utils]
+topological_navigation:
+  ubuntu:
+    bionic: [ros-melodic-topological-navigation]
