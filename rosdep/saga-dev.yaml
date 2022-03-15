@@ -37,3 +37,6 @@ thorvald_gazebo_plugins:
 thorvald_gui:
   ubuntu:
     bionic: [ros-melodic-thorvald-gui]
+thorvald_extras:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-extras]
