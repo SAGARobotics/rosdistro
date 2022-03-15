@@ -7,4 +7,6 @@ goodbye_ros:
 hello_ros:
   ubuntu:
     bionic: [ros-melodic-hello-ros]
-
+mongodb_storage_handler:
+  ubuntu:
+    bionic: [ros-melodic-mongodb-storage-handler]
