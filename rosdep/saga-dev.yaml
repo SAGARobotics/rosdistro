@@ -16,3 +16,6 @@ thorvald:
 thorvald_2dnav:
   ubuntu:
     bionic: [ros-melodic-thorvald-2dnav]
+thorvald_bringup:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-bringup]
