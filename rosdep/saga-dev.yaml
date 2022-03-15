@@ -55,3 +55,6 @@ thorvald_teleop:
 thorvald_twist_mux:
   ubuntu:
     bionic: [ros-melodic-thorvald-twist-mux]
+sentor:
+  ubuntu:
+    bionic: [ros-melodic-sentor]
