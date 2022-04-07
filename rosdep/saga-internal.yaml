@@ -6,4 +6,4 @@ hello_ros:
     bionic: [ros-melodic-hello-ros, ros-melodic-hello-ros]
 rosmath:
   ubuntu:
-    bionic: [ros-melodic-rosmath]
+    bionic: [ros-melodic-rosmath, ros-melodic-rosmath]
