@@ -1,9 +1,1 @@
-goodbye_ros:
-  ubuntu:
-    bionic: [ros-melodic-goodbye-ros, ros-melodic-goodbye-ros]
-hello_ros:
-  ubuntu:
-    bionic: [ros-melodic-hello-ros, ros-melodic-hello-ros]
-rosmath:
-  ubuntu:
-    bionic: [ros-melodic-rosmath, ros-melodic-rosmath]
+
