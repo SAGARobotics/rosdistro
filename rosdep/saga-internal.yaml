@@ -1,15 +1,30 @@
 '[topological_navigation_msgs,':
   ubuntu:
     bionic: ['ros-melodic-[topological-navigation-msgs,']
+bayesian_topological_localisation:
+  ubuntu:
+    bionic: [ros-melodic-bayesian-topological-localisation]
 bayesian_topological_localisation,:
   ubuntu:
     bionic: ['ros-melodic-bayesian-topological-localisation,']
+topological_navigation:
+  ubuntu:
+    bionic: [ros-melodic-topological-navigation]
 topological_navigation,:
   ubuntu:
     bionic: ['ros-melodic-topological-navigation,']
+topological_navigation_msgs:
+  ubuntu:
+    bionic: [ros-melodic-topological-navigation-msgs]
+topological_rviz_tools:
+  ubuntu:
+    bionic: [ros-melodic-topological-rviz-tools]
 topological_rviz_tools,:
   ubuntu:
     bionic: ['ros-melodic-topological-rviz-tools,']
+topological_utils:
+  ubuntu:
+    bionic: [ros-melodic-topological-utils]
 topological_utils]:
   ubuntu:
     bionic: ['ros-melodic-topological-utils]']
