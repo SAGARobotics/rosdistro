@@ -13,3 +13,48 @@ topological_rviz_tools:
 topological_utils:
   ubuntu:
     bionic: [ros-melodic-topological-utils]
+thorvald:
+  ubuntu:
+    bionic: [ros-melodic-thorvald]
+thorvald_2dnav:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-2dnav]
+thorvald_base:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-base]
+thorvald_bringup:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-bringup]
+thorvald_can_devices:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-can-devices]
+thorvald_description:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-description]
+thorvald_example_robots:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-example-robots]
+thorvald_extras:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-extras]
+thorvald_gazebo_plugins:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-gazebo-plugins]
+thorvald_gui:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-gui]
+thorvald_imu:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-imu]
+thorvald_msgs:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-msgs]
+thorvald_simulator:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-simulator]
+thorvald_teleop:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-teleop]
+thorvald_twist_mux:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-twist-mux]
