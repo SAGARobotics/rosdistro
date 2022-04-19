@@ -3,13 +3,14 @@ bayesian_topological_localisation:
     bionic: [ros-melodic-bayesian-topological-localisation]
 goodbye_ros:
   ubuntu:
-    bionic: [ros-melodic-goodbye-ros]
+    bionic: [ros-melodic-goodbye-ros, ros-melodic-goodbye-ros]
 hello_ros:
   ubuntu:
-    bionic: [ros-melodic-hello-ros, ros-melodic-hello-ros, ros-melodic-hello-ros]
+    bionic: [ros-melodic-hello-ros, ros-melodic-hello-ros, ros-melodic-hello-ros,
+      ros-melodic-hello-ros]
 rosmath:
   ubuntu:
-    bionic: [ros-melodic-rosmath]
+    bionic: [ros-melodic-rosmath, ros-melodic-rosmath]
 thorvald:
   ubuntu:
     bionic: [ros-melodic-thorvald]
