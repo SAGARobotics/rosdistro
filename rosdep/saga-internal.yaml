@@ -11,6 +11,9 @@ hello_ros:
 rosmath:
   ubuntu:
     bionic: [ros-melodic-rosmath, ros-melodic-rosmath]
+sentor:
+  ubuntu:
+    bionic: [ros-melodic-sentor]
 thorvald:
   ubuntu:
     bionic: [ros-melodic-thorvald]
