@@ -8,6 +8,9 @@ hello_ros:
   ubuntu:
     bionic: [ros-melodic-hello-ros, ros-melodic-hello-ros, ros-melodic-hello-ros,
       ros-melodic-hello-ros]
+polytunnel_navigation_actions:
+  ubuntu:
+    bionic: [ros-melodic-polytunnel-navigation-actions]
 rosmath:
   ubuntu:
     bionic: [ros-melodic-rosmath, ros-melodic-rosmath]
