@@ -8,6 +8,9 @@ hello_ros:
   ubuntu:
     bionic: [ros-melodic-hello-ros, ros-melodic-hello-ros, ros-melodic-hello-ros,
       ros-melodic-hello-ros]
+mongodb_storage_handler:
+  ubuntu:
+    bionic: [ros-melodic-mongodb-storage-handler]
 polytunnel_navigation_actions:
   ubuntu:
     bionic: [ros-melodic-polytunnel-navigation-actions]
