@@ -1,1 +1,48 @@
-
+rosmath:
+  ubuntu:
+    focal: [ros-noetic-rosmath]
+thorvald:
+  ubuntu:
+    focal: [ros-noetic-thorvald]
+thorvald_2dnav:
+  ubuntu:
+    focal: [ros-noetic-thorvald-2dnav]
+thorvald_base:
+  ubuntu:
+    focal: [ros-noetic-thorvald-base]
+thorvald_bringup:
+  ubuntu:
+    focal: [ros-noetic-thorvald-bringup]
+thorvald_can_devices:
+  ubuntu:
+    focal: [ros-noetic-thorvald-can-devices]
+thorvald_description:
+  ubuntu:
+    focal: [ros-noetic-thorvald-description]
+thorvald_example_robots:
+  ubuntu:
+    focal: [ros-noetic-thorvald-example-robots]
+thorvald_extras:
+  ubuntu:
+    focal: [ros-noetic-thorvald-extras]
+thorvald_gazebo_plugins:
+  ubuntu:
+    focal: [ros-noetic-thorvald-gazebo-plugins]
+thorvald_gui:
+  ubuntu:
+    focal: [ros-noetic-thorvald-gui]
+thorvald_imu:
+  ubuntu:
+    focal: [ros-noetic-thorvald-imu]
+thorvald_msgs:
+  ubuntu:
+    focal: [ros-noetic-thorvald-msgs]
+thorvald_simulator:
+  ubuntu:
+    focal: [ros-noetic-thorvald-simulator]
+thorvald_teleop:
+  ubuntu:
+    focal: [ros-noetic-thorvald-teleop]
+thorvald_twist_mux:
+  ubuntu:
+    focal: [ros-noetic-thorvald-twist-mux]
