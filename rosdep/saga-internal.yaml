@@ -3,11 +3,11 @@ bayesian_topological_localisation:
     bionic: [ros-melodic-bayesian-topological-localisation]
 goodbye_ros:
   ubuntu:
-    bionic: [ros-melodic-goodbye-ros, ros-melodic-goodbye-ros]
+    bionic: [ros-melodic-goodbye-ros, ros-melodic-goodbye-ros, ros-melodic-goodbye-ros]
 hello_ros:
   ubuntu:
     bionic: [ros-melodic-hello-ros, ros-melodic-hello-ros, ros-melodic-hello-ros,
-      ros-melodic-hello-ros]
+      ros-melodic-hello-ros, ros-melodic-hello-ros]
 mel_amcl:
   ubuntu:
     bionic: [ros-melodic-mel-amcl]
@@ -19,7 +19,7 @@ polytunnel_navigation_actions:
     bionic: [ros-melodic-polytunnel-navigation-actions]
 rosmath:
   ubuntu:
-    bionic: [ros-melodic-rosmath, ros-melodic-rosmath]
+    bionic: [ros-melodic-rosmath, ros-melodic-rosmath, ros-melodic-rosmath]
 sentor:
   ubuntu:
     bionic: [ros-melodic-sentor]
