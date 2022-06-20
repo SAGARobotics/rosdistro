@@ -20,6 +20,9 @@ polytunnel_navigation_actions:
 rosmath:
   ubuntu:
     bionic: [ros-melodic-rosmath, ros-melodic-rosmath, ros-melodic-rosmath]
+saga_tile_map_server:
+  ubuntu:
+    bionic: [ros-melodic-saga-tile-map-server]
 sentor:
   ubuntu:
     bionic: [ros-melodic-sentor]
