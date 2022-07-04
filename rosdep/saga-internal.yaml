@@ -83,3 +83,6 @@ topological_rviz_tools:
 topological_utils:
   ubuntu:
     bionic: [ros-melodic-topological-utils]
+trimble_gnss_driver:
+  ubuntu:
+    bionic: [ros-melodic-trimble-gnss-driver]
