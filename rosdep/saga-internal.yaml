@@ -86,3 +86,11 @@ topological_utils:
 trimble_gnss_driver:
   ubuntu:
     bionic: [ros-melodic-trimble-gnss-driver]
+python-thorvaldnetworktools:
+  ubuntu:
+    pip:
+      packages: [thorvaldnetworktools]
+python-thorvaldlogger:
+  ubuntu:
+    pip:
+      packages: [thorvaldlogger]
