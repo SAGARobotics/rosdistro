@@ -94,3 +94,7 @@ python-thorvaldlogger:
   ubuntu:
     pip:
       packages: [thorvaldlogger]
+python-thorvaldfilesops:
+  ubuntu:
+    pip:
+      packages: [thorvaldfilesops]
