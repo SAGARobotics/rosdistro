@@ -17,6 +17,18 @@ mongodb_storage_handler:
 polytunnel_navigation_actions:
   ubuntu:
     bionic: [ros-melodic-polytunnel-navigation-actions]
+python-thorvaldfilesops:
+  ubuntu:
+    pip:
+      packages: [thorvaldfilesops]
+python-thorvaldlogger:
+  ubuntu:
+    pip:
+      packages: [thorvaldlogger]
+python-thorvaldnetworktools:
+  ubuntu:
+    pip:
+      packages: [thorvaldnetworktools]
 rosmath:
   ubuntu:
     bionic: [ros-melodic-rosmath, ros-melodic-rosmath, ros-melodic-rosmath]
@@ -86,15 +98,3 @@ topological_utils:
 trimble_gnss_driver:
   ubuntu:
     bionic: [ros-melodic-trimble-gnss-driver]
-python-thorvaldnetworktools:
-  ubuntu:
-    pip:
-      packages: [thorvaldnetworktools]
-python-thorvaldlogger:
-  ubuntu:
-    pip:
-      packages: [thorvaldlogger]
-python-thorvaldfilesops:
-  ubuntu:
-    pip:
-      packages: [thorvaldfilesops]
