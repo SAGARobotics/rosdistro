@@ -14,7 +14,6 @@ mel_amcl:
 mongodb_storage_handler:
   ubuntu:
     bionic: [ros-melodic-mongodb-storage-handler]
-    focal: [ros-noetic-mongodb-storage-handler]
 polytunnel_navigation_actions:
   ubuntu:
     bionic: [ros-melodic-polytunnel-navigation-actions]
