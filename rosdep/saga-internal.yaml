@@ -29,6 +29,9 @@ python-thorvaldnetworktools:
   ubuntu:
     pip:
       packages: [thorvaldnetworktools]
+robot_pose_publisher:
+  ubuntu:
+    bionic: [ros-melodic-robot-pose-publisher]
 rosmath:
   ubuntu:
     bionic: [ros-melodic-rosmath, ros-melodic-rosmath, ros-melodic-rosmath]
@@ -62,6 +65,9 @@ thorvald_example_robots:
 thorvald_extras:
   ubuntu:
     bionic: [ros-melodic-thorvald-extras]
+thorvald_field_selector:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-field-selector]
 thorvald_gazebo_plugins:
   ubuntu:
     bionic: [ros-melodic-thorvald-gazebo-plugins]
@@ -74,12 +80,21 @@ thorvald_imu:
 thorvald_msgs:
   ubuntu:
     bionic: [ros-melodic-thorvald-msgs]
+thorvald_odometry_check:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-odometry-check]
+thorvald_odometry_generator:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-odometry-generator]
 thorvald_simulator:
   ubuntu:
     bionic: [ros-melodic-thorvald-simulator]
 thorvald_teleop:
   ubuntu:
     bionic: [ros-melodic-thorvald-teleop]
+thorvald_tile_map_server:
+  ubuntu:
+    bionic: [ros-melodic-thorvald-tile-map-server]
 thorvald_twist_mux:
   ubuntu:
     bionic: [ros-melodic-thorvald-twist-mux]
