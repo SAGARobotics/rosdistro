@@ -101,10 +101,16 @@ thorvald_odometry_generator:
   ubuntu:
     bionic: [ros-melodic-thorvald-odometry-generator]
     focal: [ros-noetic-thorvald-odometry-generator]
+thorvald_safety:
+  ubuntu:
+    focal: [ros-noetic-thorvald-safety]
 thorvald_simulator:
   ubuntu:
     bionic: [ros-melodic-thorvald-simulator]
     focal: [ros-noetic-thorvald-simulator]
+thorvald_tbs_joy:
+  ubuntu:
+    focal: [ros-noetic-thorvald-tbs-joy]
 thorvald_teleop:
   ubuntu:
     bionic: [ros-melodic-thorvald-teleop]
