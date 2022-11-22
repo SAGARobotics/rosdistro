@@ -1,6 +1,7 @@
 bayesian_topological_localisation:
   ubuntu:
     bionic: [ros-melodic-bayesian-topological-localisation]
+    focal: [ros-noetic-bayesian-topological-localisation]
 goodbye_ros:
   ubuntu:
     bionic: [ros-melodic-goodbye-ros, ros-melodic-goodbye-ros, ros-melodic-goodbye-ros]
@@ -126,15 +127,19 @@ thorvald_twist_mux:
 topological_navigation:
   ubuntu:
     bionic: [ros-melodic-topological-navigation]
+    focal: [ros-noetic-topological-navigation]
 topological_navigation_msgs:
   ubuntu:
     bionic: [ros-melodic-topological-navigation-msgs]
+    focal: [ros-noetic-topological-navigation-msgs]
 topological_rviz_tools:
   ubuntu:
     bionic: [ros-melodic-topological-rviz-tools]
+    focal: [ros-noetic-topological-rviz-tools]
 topological_utils:
   ubuntu:
     bionic: [ros-melodic-topological-utils]
+    focal: [ros-noetic-topological-utils]
 trimble_gnss_driver:
   ubuntu:
     bionic: [ros-melodic-trimble-gnss-driver]
