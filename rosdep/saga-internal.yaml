@@ -44,60 +44,79 @@ sentor:
 thorvald:
   ubuntu:
     bionic: [ros-melodic-thorvald]
+    focal: [ros-noetic-thorvald]
 thorvald_2dnav:
   ubuntu:
     bionic: [ros-melodic-thorvald-2dnav]
+    focal: [ros-noetic-thorvald-2dnav]
 thorvald_base:
   ubuntu:
     bionic: [ros-melodic-thorvald-base]
+    focal: [ros-noetic-thorvald-base]
 thorvald_bringup:
   ubuntu:
     bionic: [ros-melodic-thorvald-bringup]
+    focal: [ros-noetic-thorvald-bringup]
 thorvald_can_devices:
   ubuntu:
     bionic: [ros-melodic-thorvald-can-devices]
+    focal: [ros-noetic-thorvald-can-devices]
 thorvald_description:
   ubuntu:
     bionic: [ros-melodic-thorvald-description]
+    focal: [ros-noetic-thorvald-description]
 thorvald_example_robots:
   ubuntu:
     bionic: [ros-melodic-thorvald-example-robots]
+    focal: [ros-noetic-thorvald-example-robots]
 thorvald_extras:
   ubuntu:
     bionic: [ros-melodic-thorvald-extras]
+    focal: [ros-noetic-thorvald-extras]
 thorvald_field_selector:
   ubuntu:
     bionic: [ros-melodic-thorvald-field-selector]
+    focal: [ros-noetic-thorvald-field-selector]
 thorvald_gazebo_plugins:
   ubuntu:
     bionic: [ros-melodic-thorvald-gazebo-plugins]
+    focal: [ros-noetic-thorvald-gazebo-plugins]
 thorvald_gui:
   ubuntu:
     bionic: [ros-melodic-thorvald-gui]
+    focal: [ros-noetic-thorvald-gui]
 thorvald_imu:
   ubuntu:
     bionic: [ros-melodic-thorvald-imu]
+    focal: [ros-noetic-thorvald-imu]
 thorvald_msgs:
   ubuntu:
     bionic: [ros-melodic-thorvald-msgs]
+    focal: [ros-noetic-thorvald-msgs]
 thorvald_odometry_check:
   ubuntu:
     bionic: [ros-melodic-thorvald-odometry-check]
+    focal: [ros-noetic-thorvald-odometry-check]
 thorvald_odometry_generator:
   ubuntu:
     bionic: [ros-melodic-thorvald-odometry-generator]
+    focal: [ros-noetic-thorvald-odometry-generator]
 thorvald_simulator:
   ubuntu:
     bionic: [ros-melodic-thorvald-simulator]
+    focal: [ros-noetic-thorvald-simulator]
 thorvald_teleop:
   ubuntu:
     bionic: [ros-melodic-thorvald-teleop]
+    focal: [ros-noetic-thorvald-teleop]
 thorvald_tile_map_server:
   ubuntu:
     bionic: [ros-melodic-thorvald-tile-map-server]
+    focal: [ros-noetic-thorvald-tile-map-server]
 thorvald_twist_mux:
   ubuntu:
     bionic: [ros-melodic-thorvald-twist-mux]
+    focal: [ros-noetic-thorvald-twist-mux]
 topological_navigation:
   ubuntu:
     bionic: [ros-melodic-topological-navigation]
