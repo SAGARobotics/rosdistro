@@ -8,6 +8,9 @@ rosmath:
   ubuntu:
     bionic: [ros-melodic-rosmath]
     focal: [ros-noetic-rosmath]
+sentor:
+  ubuntu:
+    focal: [ros-noetic-sentor]
 thorvald:
   ubuntu:
     focal: [ros-noetic-thorvald]
