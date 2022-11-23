@@ -44,6 +44,7 @@ saga_tile_map_server:
 sentor:
   ubuntu:
     bionic: [ros-melodic-sentor]
+    focal: [ros-noetic-sentor]
 thorvald:
   ubuntu:
     bionic: [ros-melodic-thorvald]
