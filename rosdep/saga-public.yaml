@@ -1,1 +1,3 @@
-
+sentor:
+  ubuntu:
+    focal: [ros-noetic-sentor]
