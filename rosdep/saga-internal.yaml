@@ -12,6 +12,7 @@ hello_ros:
 mel_amcl:
   ubuntu:
     bionic: [ros-melodic-mel-amcl]
+    focal: [ros-noetic-mel-amcl]
 mongodb_storage_handler:
   ubuntu:
     bionic: [ros-melodic-mongodb-storage-handler]
@@ -33,6 +34,7 @@ python-thorvaldnetworktools:
 robot_pose_publisher:
   ubuntu:
     bionic: [ros-melodic-robot-pose-publisher]
+    focal: [ros-noetic-robot-pose-publisher]
 rosmath:
   ubuntu:
     bionic: [ros-melodic-rosmath, ros-melodic-rosmath, ros-melodic-rosmath]
