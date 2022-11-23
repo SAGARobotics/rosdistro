@@ -93,6 +93,12 @@ thorvald_imu:
   ubuntu:
     bionic: [ros-melodic-thorvald-imu]
     focal: [ros-noetic-thorvald-imu]
+thorvald_monitors:
+  ubuntu:
+    focal: [ros-noetic-thorvald-monitors]
+thorvald_motor_anomaly_detector:
+  ubuntu:
+    focal: [ros-noetic-thorvald-motor-anomaly-detector]
 thorvald_msgs:
   ubuntu:
     bionic: [ros-melodic-thorvald-msgs]
@@ -112,6 +118,9 @@ thorvald_simulator:
   ubuntu:
     bionic: [ros-melodic-thorvald-simulator]
     focal: [ros-noetic-thorvald-simulator]
+thorvald_snapshots:
+  ubuntu:
+    focal: [ros-noetic-thorvald-snapshots]
 thorvald_tbs_joy:
   ubuntu:
     focal: [ros-noetic-thorvald-tbs-joy]
@@ -127,6 +136,9 @@ thorvald_twist_mux:
   ubuntu:
     bionic: [ros-melodic-thorvald-twist-mux]
     focal: [ros-noetic-thorvald-twist-mux]
+thorvald_web_snapshots_diagnostics:
+  ubuntu:
+    focal: [ros-noetic-thorvald-web-snapshots-diagnostics]
 topological_navigation:
   ubuntu:
     bionic: [ros-melodic-topological-navigation]
