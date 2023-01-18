@@ -47,9 +47,15 @@ thorvald_imu:
 thorvald_msgs:
   ubuntu:
     focal: [ros-noetic-thorvald-msgs]
+thorvald_safety:
+  ubuntu:
+    focal: [ros-noetic-thorvald-safety]
 thorvald_simulator:
   ubuntu:
     focal: [ros-noetic-thorvald-simulator]
+thorvald_tbs_joy:
+  ubuntu:
+    focal: [ros-noetic-thorvald-tbs-joy]
 thorvald_teleop:
   ubuntu:
     focal: [ros-noetic-thorvald-teleop]
