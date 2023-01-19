@@ -13,52 +13,69 @@ sentor:
     focal: [ros-noetic-sentor]
 thorvald:
   ubuntu:
+    bionic: [ros-melodic-thorvald]
     focal: [ros-noetic-thorvald]
 thorvald_2dnav:
   ubuntu:
+    bionic: [ros-melodic-thorvald-2dnav]
     focal: [ros-noetic-thorvald-2dnav]
 thorvald_base:
   ubuntu:
+    bionic: [ros-melodic-thorvald-base]
     focal: [ros-noetic-thorvald-base]
 thorvald_bringup:
   ubuntu:
+    bionic: [ros-melodic-thorvald-bringup]
     focal: [ros-noetic-thorvald-bringup]
 thorvald_can_devices:
   ubuntu:
+    bionic: [ros-melodic-thorvald-can-devices]
     focal: [ros-noetic-thorvald-can-devices]
 thorvald_description:
   ubuntu:
+    bionic: [ros-melodic-thorvald-description]
     focal: [ros-noetic-thorvald-description]
 thorvald_example_robots:
   ubuntu:
+    bionic: [ros-melodic-thorvald-example-robots]
     focal: [ros-noetic-thorvald-example-robots]
 thorvald_extras:
   ubuntu:
+    bionic: [ros-melodic-thorvald-extras]
     focal: [ros-noetic-thorvald-extras]
 thorvald_gazebo_plugins:
   ubuntu:
+    bionic: [ros-melodic-thorvald-gazebo-plugins]
     focal: [ros-noetic-thorvald-gazebo-plugins]
 thorvald_gui:
   ubuntu:
+    bionic: [ros-melodic-thorvald-gui]
     focal: [ros-noetic-thorvald-gui]
 thorvald_imu:
   ubuntu:
+    bionic: [ros-melodic-thorvald-imu]
     focal: [ros-noetic-thorvald-imu]
 thorvald_msgs:
   ubuntu:
+    bionic: [ros-melodic-thorvald-msgs]
     focal: [ros-noetic-thorvald-msgs]
 thorvald_safety:
   ubuntu:
+    bionic: [ros-melodic-thorvald-safety]
     focal: [ros-noetic-thorvald-safety]
 thorvald_simulator:
   ubuntu:
+    bionic: [ros-melodic-thorvald-simulator]
     focal: [ros-noetic-thorvald-simulator]
 thorvald_tbs_joy:
   ubuntu:
+    bionic: [ros-melodic-thorvald-tbs-joy]
     focal: [ros-noetic-thorvald-tbs-joy]
 thorvald_teleop:
   ubuntu:
+    bionic: [ros-melodic-thorvald-teleop]
     focal: [ros-noetic-thorvald-teleop]
 thorvald_twist_mux:
   ubuntu:
+    bionic: [ros-melodic-thorvald-twist-mux]
     focal: [ros-noetic-thorvald-twist-mux]
