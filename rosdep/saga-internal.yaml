@@ -158,6 +158,6 @@ topological_utils:
 trimble_gnss_driver:
   ubuntu:
     bionic: [ros-melodic-trimble-gnss-driver]
-python3-utm:
+python3_utm:
   ubuntu:
     focal: [python3-utm]
