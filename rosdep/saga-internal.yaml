@@ -160,4 +160,6 @@ trimble_gnss_driver:
     bionic: [ros-melodic-trimble-gnss-driver]
 python3_utm:
   ubuntu:
-    focal: [python3-utm]
+    focal: 
+      apt:
+        packages: [python3-utm]
