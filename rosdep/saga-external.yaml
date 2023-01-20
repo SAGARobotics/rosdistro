@@ -4,6 +4,9 @@ goodbye_ros:
 hello_ros:
   ubuntu:
     bionic: [ros-melodic-hello-ros]
+python3_utm:
+  ubuntu:
+    apt: [python3-utm]
 rosmath:
   ubuntu:
     bionic: [ros-melodic-rosmath]
@@ -79,6 +82,3 @@ thorvald_twist_mux:
   ubuntu:
     bionic: [ros-melodic-thorvald-twist-mux]
     focal: [ros-noetic-thorvald-twist-mux]
-python3_utm:
-  ubuntu:
-    apt: [python3-utm]
