@@ -31,6 +31,11 @@ python-thorvaldnetworktools:
   ubuntu:
     pip:
       packages: [thorvaldnetworktools]
+python3_utm:
+  ubuntu:
+    focal:
+      apt:
+        packages: [python3-utm]
 robot_pose_publisher:
   ubuntu:
     bionic: [ros-melodic-robot-pose-publisher]
@@ -158,8 +163,3 @@ topological_utils:
 trimble_gnss_driver:
   ubuntu:
     bionic: [ros-melodic-trimble-gnss-driver]
-python3_utm:
-  ubuntu:
-    focal: 
-      apt:
-        packages: [python3-utm]
