@@ -81,6 +81,4 @@ thorvald_twist_mux:
     focal: [ros-noetic-thorvald-twist-mux]
 python3_utm:
   ubuntu:
-    focal:
-      apt:
-        packages: [python3-utm]
+    apt: [python3-utm]
