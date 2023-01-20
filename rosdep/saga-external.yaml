@@ -79,3 +79,8 @@ thorvald_twist_mux:
   ubuntu:
     bionic: [ros-melodic-thorvald-twist-mux]
     focal: [ros-noetic-thorvald-twist-mux]
+python3_utm:
+  ubuntu:
+    focal:
+      apt:
+        packages: [python3-utm]
