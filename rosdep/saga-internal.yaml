@@ -94,6 +94,9 @@ thorvald_gui:
   ubuntu:
     bionic: [ros-melodic-thorvald-gui]
     focal: [ros-noetic-thorvald-gui]
+thorvald_home_gui:
+  ubuntu:
+    focal: [ros-noetic-thorvald-home-gui]
 thorvald_imu:
   ubuntu:
     bionic: [ros-melodic-thorvald-imu]
