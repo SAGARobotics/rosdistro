@@ -70,6 +70,9 @@ thorvald_can_devices:
   ubuntu:
     bionic: [ros-melodic-thorvald-can-devices]
     focal: [ros-noetic-thorvald-can-devices]
+thorvald_data_tool:
+  ubuntu:
+    focal: [ros-noetic-thorvald-data-tool]
 thorvald_description:
   ubuntu:
     bionic: [ros-melodic-thorvald-description]
@@ -101,6 +104,9 @@ thorvald_imu:
   ubuntu:
     bionic: [ros-melodic-thorvald-imu]
     focal: [ros-noetic-thorvald-imu]
+thorvald_mites:
+  ubuntu:
+    focal: [ros-noetic-thorvald-mites]
 thorvald_monitors:
   ubuntu:
     focal: [ros-noetic-thorvald-monitors]
@@ -119,6 +125,9 @@ thorvald_odometry_generator:
   ubuntu:
     bionic: [ros-melodic-thorvald-odometry-generator]
     focal: [ros-noetic-thorvald-odometry-generator]
+thorvald_runner_cutter:
+  ubuntu:
+    focal: [ros-noetic-thorvald-runner-cutter]
 thorvald_safety:
   ubuntu:
     focal: [ros-noetic-thorvald-safety]
@@ -129,6 +138,9 @@ thorvald_simulator:
 thorvald_snapshots:
   ubuntu:
     focal: [ros-noetic-thorvald-snapshots]
+thorvald_task_agent:
+  ubuntu:
+    focal: [ros-noetic-thorvald-task-agent]
 thorvald_tbs_joy:
   ubuntu:
     focal: [ros-noetic-thorvald-tbs-joy]
@@ -140,6 +152,9 @@ thorvald_tile_map_server:
   ubuntu:
     bionic: [ros-melodic-thorvald-tile-map-server]
     focal: [ros-noetic-thorvald-tile-map-server]
+thorvald_tool_common:
+  ubuntu:
+    focal: [ros-noetic-thorvald-tool-common]
 thorvald_twist_mux:
   ubuntu:
     bionic: [ros-melodic-thorvald-twist-mux]
