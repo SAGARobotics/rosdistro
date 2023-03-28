@@ -70,6 +70,9 @@ thorvald_can_devices:
   ubuntu:
     bionic: [ros-melodic-thorvald-can-devices]
     focal: [ros-noetic-thorvald-can-devices]
+thorvald_core:
+  ubuntu:
+    focal: [ros-noetic-thorvald-core]
 thorvald_data_tool:
   ubuntu:
     focal: [ros-noetic-thorvald-data-tool]
