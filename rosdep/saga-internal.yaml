@@ -2,15 +2,6 @@ bayesian_topological_localisation:
   ubuntu:
     bionic: [ros-melodic-bayesian-topological-localisation]
     focal: [ros-noetic-bayesian-topological-localisation]
-goodbye_ros:
-  ubuntu:
-    bionic: [ros-melodic-goodbye-ros, ros-melodic-goodbye-ros, ros-melodic-goodbye-ros]
-    focal: [ros-noetic-goodbye-ros]
-hello_ros:
-  ubuntu:
-    bionic: [ros-melodic-hello-ros, ros-melodic-hello-ros, ros-melodic-hello-ros,
-      ros-melodic-hello-ros, ros-melodic-hello-ros]
-    focal: [ros-noetic-hello-ros]
 mel_amcl:
   ubuntu:
     bionic: [ros-melodic-mel-amcl]

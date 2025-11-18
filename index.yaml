@@ -1,9 +1,0 @@
-%YAML 1.1
-# ROS index file
-# see REP 143: http://ros.org/reps/rep-0143.html
----
-distributions:
-  melodic:
-    distribution: [melodic/saga-dist.yaml]
-type: index
-version: 3
