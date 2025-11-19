@@ -1,9 +1,3 @@
-goodbye_ros:
-  ubuntu:
-    bionic: [ros-melodic-goodbye-ros]
-hello_ros:
-  ubuntu:
-    bionic: [ros-melodic-hello-ros]
 python3_utm:
   ubuntu:
     apt: [python3-utm]
