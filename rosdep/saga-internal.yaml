@@ -44,6 +44,12 @@ sentor:
   ubuntu:
     bionic: [ros-melodic-sentor]
     focal: [ros-noetic-sentor]
+tms_client:
+  ubuntu:
+    jammy: [ros-humble-tms-client]
+tms_client_interfaces:
+  ubuntu:
+    jammy: [ros-humble-tms-client-interfaces]
 thorvald:
   ubuntu:
     bionic: [ros-melodic-thorvald]
